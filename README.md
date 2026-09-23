@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Manish Mehra
-**Aspiring Business Analyst | Finance, Marketing & Data Enthusiast | Strong Analytical & Statistical Skills**
+**Aspiring Business Analyst | Finance, Marketing & Data Enthusiast | Strong Analytical & Statistical Skills | MySQL**
 
 
 
-- 🌱 **I’m currently learning:** MySQL
+- 🌱 **I’m currently learning:** Python 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manishmehra11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
